@@ -37,11 +37,11 @@ const userSchema = z.object({
 });
 
 const deployPathLogin = "http://localhost:5173/login"
-import { AuthApiError } from '@supabase/supabase-js';
-import { fail, redirect } from '@sveltejs/kit';
-import { message, superValidate } from 'sveltekit-superforms/server';
-import { z } from 'zod';
-import fetch from 'node-fetch';  // Add this import
+// import { AuthApiError } from '@supabase/supabase-js';
+// import { fail, redirect } from '@sveltejs/kit';
+// import { message, superValidate } from 'sveltekit-superforms/server';
+// import { z } from 'zod';
+// import fetch from 'node-fetch';  // Add this import
 
 // ... (rest of your imports and load function)
 
