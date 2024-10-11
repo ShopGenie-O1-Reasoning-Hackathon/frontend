@@ -14,6 +14,7 @@ export const load = async ({ locals: { supabase }, params, fetch }) => {
         let payload = { productId: productId, userId: userId };
 
         const ret = await apiService.postPython(`cart/check`, payload);
+        const ret2 = await apiService.postPython(`clicks`, payload);
         return ret;
     }
 
