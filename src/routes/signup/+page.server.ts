@@ -36,7 +36,7 @@ const userSchema = z.object({
     gender: z.enum(['male', 'female'], { required_error: 'Gender is required' })
 });
 
-const deployPathLogin = "http://localhost:5173/login"
+const deployPathLogin = "https://shopgenie-frontend.vercel.app/login"
 // import { AuthApiError } from '@supabase/supabase-js';
 // import { fail, redirect } from '@sveltejs/kit';
 // import { message, superValidate } from 'sveltekit-superforms/server';
