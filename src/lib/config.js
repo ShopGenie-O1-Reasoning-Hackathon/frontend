@@ -1,0 +1,1 @@
+export const PYTHON_BACKEND_URL = "https://shopgenie-backend-gztc.onrender.com/api/v1"

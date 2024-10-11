@@ -1,0 +1,154 @@
+[
+	{
+		"category": {
+            "shownName": "Men",
+            "searchName": "men"
+        },
+		"subcategories": [
+			{
+				"shownName": "Coaty & Fatua",
+				"searchName": "Coaty-Fatua"
+			},
+			{
+				"shownName": "Footwear",
+				"searchName": "Footwear"
+			},
+			{
+				"shownName": "Casual Pant",
+				"searchName": "casual pant"
+			},
+			{
+				"shownName": "Formal Pant",
+				"searchName": "formal pant"
+			},
+			{
+				"shownName": "New Arrivals",
+				"searchName": "new arrivals"
+			},
+			{
+				"shownName": "Panjabi",
+				"searchName": "panjabi"
+			},
+			{
+				"shownName": "Shirts",
+				"searchName": "shirts"
+			},
+			{
+				"shownName": "Suit",
+				"searchName": "suit"
+			},
+			{
+				"shownName": "T-Shirts",
+				"searchName": "t-shirts"
+			},
+			{
+				"shownName": "Wallets",
+				"searchName": "wallets"
+			}
+		]
+	},
+	{
+		"category": {
+            "shownName": "Women",
+            "searchName": "women"
+        },
+		"subcategories": [
+			{
+				"shownName": "Western",
+				"searchName": "Western"
+			},
+			{
+				"shownName": "Daily Life",
+				"searchName": "daily life"
+			},
+            {
+				"shownName": "Casual",
+				"searchName": "casual"
+			},
+			{
+				"shownName": "Footwear",
+				"searchName": "footwear"
+			},
+			{
+				"shownName": "New Arrivals",
+				"searchName": "new arrivals"
+			},
+			{
+				"shownName": "Panjabi & Kurta",
+				"searchName": "panjabi-kurta"
+			},
+			{
+				"shownName": "Winter Wear",
+				"searchName": "winter wear"
+			},
+			{
+				"shownName": "Bags",
+				"searchName": "Bags"
+			},
+			{
+				"shownName": "Saree",
+				"searchName": "saree"
+			}
+		]
+	},
+	{
+		"category": {
+            "shownName": "Boys",
+            "searchName": "boy"
+        },
+		"subcategories": [
+			{
+				"shownName": "Western",
+				"searchName": "Western"
+			},
+			{
+				"shownName": "Daily Life",
+				"searchName": "daily-life"
+			},
+			{
+				"shownName": "Winter Wear",
+				"searchName": "winter-wear"
+			},
+			{
+				"shownName": "Formal",
+				"searchName": "formal"
+			},
+			{
+				"shownName": "Panjabi",
+				"searchName": "panjabi"
+			},
+			{
+				"shownName": "T-Shirt",
+				"searchName": "t-shirt"
+			},
+            {
+				"shownName": "Pant",
+				"searchName": "pant"
+			}
+		]
+	},
+	{
+		"category": {
+            "shownName": "Girls",
+            "searchName": "girl"
+        },
+		"subcategories": [
+			{
+				"shownName": "Special",
+				"searchName": "Special"
+			},
+			{
+				"shownName": "Casual",
+				"searchName": "casual"
+			},
+			{
+				"shownName": "Daily Life",
+				"searchName": "daily life"
+			},
+			{
+				"shownName": "Winter Wear",
+				"searchName": "winter-wear"
+			}
+		]
+	}
+]
